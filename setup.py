@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="toto-logger-nicolasances", # Replace with your own username
-    version="1.0.5",
+    version="1.0.6",
     author="nicolasances",
-    author_email="nicolas.matteazzi@gmail.com",
+    author_email="nicolasances@gmail.com",
     description="A simple logger for Toto",
     long_description=long_description,
     long_description_content_type="text/markdown",
